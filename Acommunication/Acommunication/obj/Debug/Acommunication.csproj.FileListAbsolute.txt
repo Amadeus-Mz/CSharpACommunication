@@ -1,0 +1,13 @@
+C:\Users\Abiz-Pakorn\source\repos\Acommunication\Acommunication\bin\Debug\Acommunication.exe
+C:\Users\Abiz-Pakorn\source\repos\Acommunication\Acommunication\bin\Debug\Acommunication.pdb
+C:\Users\Abiz-Pakorn\source\repos\Acommunication\Acommunication\obj\Debug\Acommunication.csprojAssemblyReference.cache
+C:\Users\Abiz-Pakorn\source\repos\Acommunication\Acommunication\obj\Debug\Acommunication.Form1.resources
+C:\Users\Abiz-Pakorn\source\repos\Acommunication\Acommunication\obj\Debug\Acommunication.Properties.Resources.resources
+C:\Users\Abiz-Pakorn\source\repos\Acommunication\Acommunication\obj\Debug\Acommunication.csproj.GenerateResource.cache
+C:\Users\Abiz-Pakorn\source\repos\Acommunication\Acommunication\obj\Debug\Acommunication.csproj.CoreCompileInputs.cache
+C:\Users\Abiz-Pakorn\source\repos\Acommunication\Acommunication\obj\Debug\Acommunication.exe
+C:\Users\Abiz-Pakorn\source\repos\Acommunication\Acommunication\obj\Debug\Acommunication.pdb
+C:\Users\Abiz-Pakorn\source\repos\Acommunication\Acommunication\bin\Debug\Acommunication.exe.config
+C:\Users\Abiz-Pakorn\source\repos\Acommunication\Acommunication\bin\Debug\EasyModbus.dll
+C:\Users\Abiz-Pakorn\source\repos\Acommunication\Acommunication\bin\Debug\EasyModbus.xml
+C:\Users\Abiz-Pakorn\source\repos\Acommunication\Acommunication\obj\Debug\Acommunication.csproj.CopyComplete
